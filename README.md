@@ -15,7 +15,7 @@ PyGal
 
 Iris.csv - Iris data in csv format. Data includes 150 entries for three different iris species.
 
-Iris_Data_Visualization.ipynb - Data visualization notebook created with Jupyter Notebook.
+pygal_Iris_Visualization.ipynb - Data visualization notebook created with Jupyter Notebook.
 
 DATA_620_Iris_Visualization.ipynb - Supplementry notebook containing PyGal charts.  PyGal is not supported by Kaggle so these were not included in the Kaggle submission.
 
