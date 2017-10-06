@@ -1,9 +1,9 @@
-### Data-Visualization-Iris
-# By: William Fisher
+# Data-Visualization-Iris
+####### By: William Fisher
 
 Analyzing data from iris flowers using various techniques.
 
-# Libraries
+### Libraries
 
 ⋅⋅* Pnadas
 ⋅⋅* Seaborn
@@ -11,7 +11,7 @@ Analyzing data from iris flowers using various techniques.
 ⋅⋅* Numpy
 ⋅⋅* PyGal
 
-# Files
+### Files
 
 Iris.csv - Iris data in csv format. Data includes 150 entries for three different iris species.
 
@@ -19,7 +19,7 @@ Iris_Data_Visualization.ipynb - Data visualization notebook created with Jupyter
 
 DATA_620_Iris_Visualization.ipynb - Supplementry notebook containing PyGal charts.  PyGal is not supported by Kaggle so these were not included in the Kaggle submission.
 
-# Kaggle Submission
+### Kaggle Submission
 
 The Kaggle submission can be found here: https://www.kaggle.com/billfish/iris-data-visualization.
 
@@ -33,7 +33,7 @@ Adjustments made to original submission.
 5) For the final pairplot graph, I changed the markers of the scatterplots to +'s and I changed the colors to the scheme: husl.
 6) For the final three plots I played with various color schemes again and went with Greens, gist_rainbow, and winter respectively.
 
-# Iris Dataset
+### Iris Dataset
 
 Data can be found here: https://www.kaggle.com/uciml/iris.
 
