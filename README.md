@@ -1,5 +1,5 @@
 # Data-Visualization-Iris
-####### By: William Fisher
+##### By: William Fisher
 
 Analyzing data from iris flowers using various techniques.
 
