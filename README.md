@@ -5,11 +5,11 @@ Analyzing data from iris flowers using various techniques.
 
 ### Libraries
 
-⋅⋅* Pnadas
-⋅⋅* Seaborn
-⋅⋅* MatPlotLib
-⋅⋅* Numpy
-⋅⋅* PyGal
+Pandas
+Seaborn
+MatPlotLib
+Numpy
+PyGal
 
 ### Files
 
@@ -31,7 +31,7 @@ Adjustments made to original submission.
 3) I added an extra piece of data to the box plot.  The original called for just the petal length but I wanted to use graphs that showed both sepal and petal lengths and widths so I included those into the axes.
 4) In the FacetGrid visualization, I used the original but then I also used the fill feature for a second graph.
 5) For the final pairplot graph, I changed the markers of the scatterplots to +'s and I changed the colors to the scheme: husl.
-6) For the final three plots I played with various color schemes again and went with Greens, gist_rainbow, and winter respectively.
+6) For the final three plots, I played with various color schemes again and went with Greens, gist_rainbow, and winter respectively.
 
 ### Iris Dataset
 
